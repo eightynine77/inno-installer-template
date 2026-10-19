@@ -6,7 +6,7 @@ this is a reusable template for inno setup. you can replace the components in th
 <img src="https://raw.githubusercontent.com/eightynine77/inno-installer-template/refs/heads/main/imgaes/step%201.png"/>  
 <img src="https://raw.githubusercontent.com/eightynine77/inno-installer-template/refs/heads/main/imgaes/step%202.png" width="900" height="354"/>  
 
-### step 2 - load the `.iss` file
+### step 2 - load the `.iss` file on inno setup
 go to **file>open** and select the `.iss` file to open it.
 
 ### step 3, final step - customize the file
